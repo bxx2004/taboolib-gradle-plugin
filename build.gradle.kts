@@ -4,7 +4,7 @@ plugins {
     id("maven-publish")
     id("java-gradle-plugin")
     id("com.gradle.plugin-publish") version "0.12.0"
-    kotlin("jvm") version "1.7.10"
+    kotlin("jvm") version "2.0.20"
 }
 
 group = "io.izzel.taboolib"
